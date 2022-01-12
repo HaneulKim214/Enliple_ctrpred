@@ -1,0 +1,5 @@
+# 학습된 scaler,encoder, model
+/data
+
+# venv 
+/venv
